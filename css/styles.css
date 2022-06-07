@@ -40,6 +40,11 @@ p{
     height: max-content;
 }
 
+img{
+    height: 50%;
+}
+
+
 main p, .part2 p{
     color: rgb(71, 70, 70);
 }
